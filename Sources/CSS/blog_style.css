@@ -10,7 +10,7 @@ body{
 
     background-image: url('../images/blog/blog_background.jpg');
 	
-	min-height:1500px;
+	min-width:1500px;
 }
 .header{
 	background-color: #0009;/*for transparent header*/
